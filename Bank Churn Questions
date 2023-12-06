@@ -1,6 +1,15 @@
 -- Questions :
 
+
+
+   Measures
+
+Create a Measure to calculate the No of Customers by using Dax.
+Create a Measure to calculate the Lost Customers by using Dax.
+Create a Measure to calculate the Churn Rate by using Dax.
+
      Cards
+
 1) show a No of Customers.
 2) Show a Churn Rate.
 3) Show Lost Customers.
