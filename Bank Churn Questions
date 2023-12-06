@@ -1,27 +1,28 @@
--- Questions :
 
 
+     
 
-   Measures
-
-Create a Measure to calculate the No of Customers by using Dax.
-Create a Measure to calculate the Lost Customers by using Dax.
-Create a Measure to calculate the Churn Rate by using Dax.
-
-     Cards
-
-1) show a No of Customers.
-2) Show a Churn Rate.
-3) Show Lost Customers.
+      QUESTIONS :
 
 
-     Charts 
+--- Calculate the No of Customers.
 
-4) Make a Donut Chart to showing No of Customers by Gender wise.
-5) Make Another Donut Chart to showing No of Customers by Activity Status wise.
-6) Make Another Donut Chart to showing No of Customers by Credit Card Status.
-7) Make Another Donut Chart to showing No of Customers by Churn Rate.
-8) Make a line clustered bar chart to showing customers and churn rate by age group.
-9) Make a line and stacked column chart to showing customers and churn rate by credit score.
-10) Make line chart to showing customer lost by country.
-11) Make a Stacked column chart to showing customers by products. 
+--- Calculate the Lost Customers.
+
+--- Calculate the Churn Rate.
+
+--- Find No of Customers by Gender wise.
+
+--- Findf No of Customers by Activity Status wise.
+
+--- Find No of Customers by Credit Card Status.
+
+--- Find customers and churn rate by age group.
+
+--- Show customers and churn rate by credit score.
+
+--- Show customers by country.
+
+--- Find lost customers by country
+
+--- Show customers by products. 
