@@ -1,0 +1,16 @@
+
+-- Measures :
+Created New Measures by using DAX function
+1) find the total number of customers
+   Customers = COUNT('Bank Customers Data'[Customer_ID])
+2) find the lost customers
+   Lost Customers = CALCULATE(COUNT('Bank Customers Data'[Churn]),'Bank Customers Data'[Churn]="churned")
+3) find the churn rate
+   Churn Rate = DIVIDE('Bank Customers Data'[Lost Customers],'Bank Customers Data'[Customers])
+
+
+-- Findings :
+
+
+
+   
