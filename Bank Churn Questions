@@ -1,0 +1,18 @@
+-- Questions :
+
+     Cards
+1) show a No of Customers.
+2) Show a Churn Rate.
+3) Show Lost Customers.
+
+
+     Charts 
+
+4) Make a Donut Chart to showing No of Customers by Gender wise.
+5) Make Another Donut Chart to showing No of Customers by Activity Status wise.
+6) Make Another Donut Chart to showing No of Customers by Credit Card Status.
+7) Make Another Donut Chart to showing No of Customers by Churn Rate.
+8) Make a line clustered bar chart to showing customers and churn rate by age group.
+9) Make a line and stacked column chart to showing customers and churn rate by credit score.
+10) Make line chart to showing customer lost by country.
+11) Make a Stacked column chart to showing customers by products. 
