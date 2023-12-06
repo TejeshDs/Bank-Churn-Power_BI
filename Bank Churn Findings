@@ -1,16 +1,26 @@
 
--- Measures :
+      Measures :
+
 Created New Measures by using DAX function
 1) find the total number of customers
-   Customers = COUNT('Bank Customers Data'[Customer_ID])
 2) find the lost customers
-   Lost Customers = CALCULATE(COUNT('Bank Customers Data'[Churn]),'Bank Customers Data'[Churn]="churned")
 3) find the churn rate
-   Churn Rate = DIVIDE('Bank Customers Data'[Lost Customers],'Bank Customers Data'[Customers])
+
+ ---  Customers = COUNT('Bank Customers Data'[Customer_ID])
+ ---  Lost Customers = CALCULATE(COUNT('Bank Customers Data'[Churn]),'Bank Customers Data'[Churn]="churned")
+ ---  Churn Rate = DIVIDE('Bank Customers Data'[Lost Customers],'Bank Customers Data'[Customers])
 
 
--- Findings :
+    Findings :
 
-
-
+1) Total number of people are 10K in that 
+     Churned (persons who have left the bank) are less than the Notchurned.
+2) Churn rate is 20.4%.
+3) persons who owned credit card more than persons not having credit card.
+4) more customers are from France followed by Germany and Spain.
+5) less number of customers are lost from Spain.
+6) more number of customers from product  number 1 followedd by the 2,3,4.
+7) Bank having more customers from 31-40 age group.
+8) Churn rate is more in the age group of 51-60.
+9) people with poor credit score having the more churn rate.
    
