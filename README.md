@@ -7,7 +7,7 @@ This is Bank Churn analysis report dashbaord
 Analyzing the customers who have left a bank and identifying patterns ,bank churn means the customers who have left the bank
 
 
-![Screenshot (14)](https://github.com/TejeshDs/Power-Bank-BI-1-/assets/151847161/105f9c98-dab5-4109-a445-39d359e7f27f)
+![Screenshot (14)](https://github.com/TejeshDs/Power-Bank-BI-1-/assets/151847161/9a40df9a-84f8-4c22-8a43-e6516cebb3d7)
 **PROCESS**
  Data Connection 
  Data cleaning 
